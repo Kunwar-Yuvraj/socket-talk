@@ -1,4 +1,3 @@
-readme_text = """
 # Real-Time Web Chat App
 
 A real-time web chat application built with the MERN stack (MongoDB, Express, React, Node.js), using Socket.IO for real-time communication and DaisyUI for styling. This app allows users to send and receive messages in real-time.
